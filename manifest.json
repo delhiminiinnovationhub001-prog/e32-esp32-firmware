@@ -1,7 +1,7 @@
 {
   "default": "",
   "devices": {
-    "383E51579AF4": "1.0.3"
+    "383E51579AF4": "1.0.4"
   },
   "firmware": {
     "1.0.1": {
@@ -23,6 +23,13 @@
       "md5": "1811635b81c0c6542ba1f40c1f203b8f",
       "size": 1143600,
       "sha256": "cc2536a58e52e85b467c94d821f91a1380de5008938765da8a9bfb2f9deaea8c",
+      "date": "2026-10-02"
+    },
+    "1.0.4": {
+      "url": "https://github.com/delhiminiinnovationhub001-prog/e32-esp32-firmware/releases/download/v1.0.4/e32-tester-1.0.4.bin",
+      "md5": "1c1f47c1c994ae8799f38a7a1b102923",
+      "size": 1143600,
+      "sha256": "e5269142574ffe79c48c2291aed74c8b4733d1df209aa01321ac3fe3e079ccd9",
       "date": "2026-10-02"
     }
   }
